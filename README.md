@@ -1,0 +1,13 @@
+Hey there! 👋
+
+  I'm Abhishek Daundkar, I'm an Full stack Dot Net developer when i'm not coding 👨🏼‍💻 i'm either working out 💪🏼 or 
+   talking to my favourite person 🦹🏻‍.
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Abhishek-Daundkar/Abhishek-Daundkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
